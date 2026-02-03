@@ -1,6 +1,6 @@
 # Hi, I'm Gegë 
 
-I'm a final-year **BSc Computer Science & Engineering student at Óbuda University (Budapest)** with hands-on experience in **frontend and full-stack web development**. I enjoy building clean, maintainable software and working on systems where correctness, performance, and structure matter.
+I'm a recent graduate with a**BSc** in **Computer Science & Engineering at Óbuda University (Budapest)** with hands-on experience in **frontend and full-stack web development**. I enjoy building clean, maintainable software and working on systems where correctness, performance, and structure matter.
 
 I'm especially interested in **modern web technologies**, scalable architectures, and learning how large, production-grade systems are designed and maintained.
 
